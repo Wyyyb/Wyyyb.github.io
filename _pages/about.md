@@ -26,7 +26,7 @@ latest_posts:
 
 I'm a CS Ph.D. student at [TIGER-Lab][0] in [University of Waterloo][1], advised by Prof. [Wenhu Chen][2]. Previously, I obtained my Master's degree in Computer Science from [UC Davis][3]. I received my Bachelor's degree in Computer Science from [Chu Kochen Honors College][4], [Zhejiang University][5]. From 2021 to 2023, I worked as a full-time NLP Algorithm Engineer at [Tencent Smart Healthcare][6].
 
-My research focuses on General Artificial Intelligence and its applications. I am particularly interested in understanding the behaviour of LLMs, multimodal reasoning, and their evaluation.
+My research focuses on General Artificial Intelligence and its applications. I am particularly interested in understanding the behavior of LLMs, multimodal reasoning, and their evaluation.
 
 [0]: https://huggingface.co/TIGER-Lab
 [1]: https://uwaterloo.ca/
