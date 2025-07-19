@@ -440,13 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-mmlu-pro-https-arxiv-org-abs-2406-01574-is-accepted-to-neurips-2024-https-proceedings-neurips-cc-paper-files-paper-2024-hash-ad236edc564f3e3156e1b2feafb99a24-abstract-datasets-and-benchmarks-track-html",
+          title: '🎉 [MMLU-Pro](https://arxiv.org/abs/2406.01574) is accepted to [Neurips 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ad236edc564f3e3156e1b2feafb99a24-Abstract-Datasets_and_Benchmarks_Track.html)',
           description: "",
           section: "News",},{id: "news-critique-fine-tuning-and-scholarcopilot-is-accepted-to-colm-2025",
           title: '🎉 Critique Fine-Tuning and ScholarCopilot is accepted to COLM 2025',
