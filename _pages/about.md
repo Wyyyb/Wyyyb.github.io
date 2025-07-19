@@ -25,23 +25,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a second-year CS Ph.D. student of [TIGER-Lab][12] at [University of Waterloo][7], advised by Prof. [Wenhu Chen][6]. Previously, I received my bachelor degree in Computer Science at [Zhejiang University][0]. I have interned at at [Allen Institute for AI][11] in summer 2024, supervised by [Bill Yuchen Lin][5] and [Lianhui Qin][10].
+I'm a CS Ph.D. student at [TIGER-Lab][0] in [University of Waterloo][1], advised by Prof. [Wenhu Chen][2]. Previously, I obtained my Master's degree in Computer Science from [UC Davis][3]. I received my Bachelor's degree in Computer Science from [Chu Kochen Honors College][4], [Zhejiang University][5]. From 2021 to 2023, I worked as a full-time NLP Algorithm Engineer at [Tencent Smart Healthcare][6].
 
-My research focus on General Artificial Intelligence and their applications. I am particularly interested in understanding the behavior of LLMs and and multimodality reasoning, as well as their evaluation.
+My research focuses on General Artificial Intelligence and its applications. I am particularly interested in understanding the behavior of LLMs, multimodal reasoning, and their evaluation.
 
-[0]: https://www.zju.edu.cn/english/
-[1]: https://shanzhenren.github.io/
-[2]: https://aisecure.github.io/
-[3]: https://www.cs.usc.edu/
-[4]: dongfu.jiang@uwaterloo.ca
-[5]: https://yuchenlin.xyz/
-[6]: https://wenhuchen.github.io/
-[7]: https://uwaterloo.ca/
-[8]: https://scholar.google.com.hk/citations?user=IIoFY90AAAAJ&hl=zh-CN
-[9]: https://inklab.usc.edu/
-[10]: https://lianhui.ucsd.edu/
-[11]: https://allenai.org/
-[12]: https://huggingface.co/TIGER-Lab
+[0]: https://huggingface.co/TIGER-Lab
+[1]: https://uwaterloo.ca/
+[2]: https://wenhuchen.github.io/
+[3]: https://www.ucdavis.edu/
+[4]: http://ckc.zju.edu.cn/ckcen/
+[5]: https://www.zju.edu.cn/english/
+[6]: https://www.tencent.com/en-us/business/smart-healthcare.html
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
