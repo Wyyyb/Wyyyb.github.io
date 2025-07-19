@@ -18,10 +18,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I'm a CS Ph.D. student at [TIGER-Lab][0] in [University of Waterloo][1], advised by Prof. [Wenhu Chen][2]. Previously, I obtained my Master's degree in Computer Science from [UC Davis][3]. I received my Bachelor's degree in Computer Science from [Chu Kochen Honors College][4], [Zhejiang University][5]. From 2021 to 2023, I worked as a full-time NLP Algorithm Engineer at [Tencent Smart Healthcare][6].
