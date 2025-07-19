@@ -7,7 +7,7 @@ subtitle: <a href='https://uwaterloo.ca/'>University of Waterloo</a>; <a href='h
 
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
   image_circular: true # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
